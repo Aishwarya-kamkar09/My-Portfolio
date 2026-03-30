@@ -49,7 +49,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1Lc5FBI0XpXVYYAmuMSQBojuuEXYEUDrP/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1VVDN4epWXJysBjHPl0ORxaF7OuNns5ij/view?usp=drive_link"
               className="px-8 py-3 rounded-full text-white font-medium text-lg border-[1.5px] border-purple-500/50 hover:border-purple-500 transition-all duration-300 bg-transparent"
             >
               Download CV
