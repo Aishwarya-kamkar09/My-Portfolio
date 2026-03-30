@@ -64,7 +64,7 @@ const Hero = () => {
             <div className="w-72 h-72 md:w-[450px] md:h-[450px] rounded-full bg-[#111111] flex items-center justify-center relative overflow-hidden">
               <div className="w-[85%] h-[85%] rounded-full overflow-hidden border-2 border-purple-500/20">
                 <img
-                  src="photo.jpg" // Ensure this path is correct
+                  src="me.webp" // Ensure this path is correct
                   alt="Aishwarya Profile"
                   className="w-full h-full object-cover"
                 />
